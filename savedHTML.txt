@@ -1,0 +1,155 @@
+
+    <!-- <div class="container">
+      <div class="row">
+        <h1>USER DETAILS</h1>
+      </div>
+      <div class="row">
+        <form method="POST" action="">
+          <table>
+            <tr>
+              <td>
+                <label for="first_name">First Name :</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  value=""
+                  placeholder="First Name"
+                  id="first_name"
+                  required
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="last_name">Last Name :</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  value=""
+                  placeholder="Last Name"
+                  id="last_name"
+                  required
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="address">Address :</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  value=""
+                  placeholder="Address"
+                  id="address"
+                  required
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="pincode">Pincode :</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  value=""
+                  placeholder="Pincode"
+                  id="pincode"
+                  required
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="gender">Gender :</label>
+              </td>
+              <td>
+                <label for="male">Male </label>
+                <input
+                  checked
+                  type="radio"
+                  id="male"
+                  name="gender"
+                  value="Male"
+                />
+                <label for="female"> Female</label>
+                <input type="radio" id="female" name="gender" value="Female" />
+                <label for="other">Other </label>
+                <input type="radio" id="other" name="gender" value="Other" />
+              </td>
+            </tr>
+            <tr>
+              <td>Choice of food (minimum 2) :</td>
+              <td>
+                <label for="indian">Indian</label>
+                <input type="checkbox" id="indian" name="food" value="Indian" />
+                <label for="mexican"> Mexican</label>
+                <input
+                  type="checkbox"
+                  id="mexican"
+                  name="food"
+                  value="Mexican"
+                />
+                <label for="thai">Thai </label>
+                <input type="checkbox" id="thai" name="food" value="Thai" />
+                <label for="korean">Korean</label>
+                <input type="checkbox" id="korean" name="food" value="Korean" />
+                <label for="salad">Salad</label>
+                <input type="checkbox" id="salad" name="food" value="Salad" />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="state">State :</label>
+              </td>
+              <td>
+                <input
+                  required
+                  type="text"
+                  value=""
+                  placeholder="State"
+                  id="state"
+                  required
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="country">Country :</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  value=""
+                  placeholder="Country"
+                  id="country"
+                  required
+                />
+              </td>
+            </tr>
+          </table>
+          <button class="btn" type="submit">Submit</button>
+        </form>
+      </div>
+      <div class="row display">
+        <table class="displayTable">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>First Name</th>
+              <th>Last Name</th>
+              <th>Address</th>
+              <th>Pincode</th>
+              <th>Gender</th>
+              <th>Food</th>
+              <th>State</th>
+              <th>Country</th>
+            </tr>
+          </thead>
+          <tbody id="enterData"></tbody>
+        </table>
+      </div>
+    </div> -->
